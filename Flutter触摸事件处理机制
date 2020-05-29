@@ -1,5 +1,5 @@
 
-'/**
+**/**
     GestureDetector({
     Key key,
     this.child,
@@ -35,5 +35,4 @@
     this.behavior,
     this.excludeFromSemantics = false
     })
- */
-'
+ */ **
